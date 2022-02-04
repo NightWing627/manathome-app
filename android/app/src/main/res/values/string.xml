@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Man At Home</string>
+  <string name="facebook_app_id">641515357109020</string>
+  <string name="fb_login_protocol_scheme">fb641515357109020</string>
+</resources>

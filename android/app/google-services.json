@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186478679631",
+    "project_id": "man-at-home-app",
+    "storage_bucket": "man-at-home-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186478679631:android:8ef8a820f2b1c384357c3a",
+        "android_client_info": {
+          "package_name": "com.thecanaryweb.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186478679631-d9ovgs9gqf8512he3qj6agcj3m6o0it3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtypqdzaJFmslLfbVNobrfDG-ZeP46xl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186478679631-d9ovgs9gqf8512he3qj6agcj3m6o0it3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
